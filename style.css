@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.participant {
+    border: 1px solid white;
+    flex: 0 32%;
+    height: 32%;
+    margin-bottom: 2%;
+    color: white;
+}
+#room {
+    background-color: darkslateblue;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
