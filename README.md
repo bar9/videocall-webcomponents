@@ -3,7 +3,7 @@
 currently a videocall-like webcam multiplexer.
 
 ## how to run
-download/clone and serve the index.html from static file
+download/clone and serve via https (e.g. with `./serve.sh` in case you have http-server installed an have followed https://web.dev/how-to-use-local-https/)
 
 ## controls
 use developer console to manipulate app state
